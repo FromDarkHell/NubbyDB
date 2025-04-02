@@ -1,5 +1,14 @@
-# Vue 3 + TypeScript + Vite
+## NubbyDB
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A simple Vue / TS / Vite based website for storing info and data about [Nubby's Number Factory](https://store.steampowered.com/app/3191030/Nubbys_Number_Factory/)
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+### Credits
+
+- [NubbyExtractor](https://github.com/FromDarkHell/NubbyExtractor), made by yours truly; This project is the base for 
+- [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) and all developers on it, as without their work, this project would **not** have existed.
+
+### Support
+
+If you for some reason want to support me financially for this project (or others I make), you can donate to me via [ko-fi](https://ko-fi.com/fromdarkhell) or [Patreon](https://patreon.com/fromdarkhell).
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O44GLCD) [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dfromdarkhell%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/fromdarkhell)
