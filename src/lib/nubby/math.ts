@@ -1,9 +1,4 @@
-import {
-  NubbyItemPool,
-  NubbyItemTier,
-  NubbyItemType,
-  type NubbyItem,
-} from "./items";
+import { NubbyItemPool, NubbyItemTier, type NubbyItem } from "./items";
 
 function combinations(n: number, k: number): number {
   if (k < 0 || k > n) {

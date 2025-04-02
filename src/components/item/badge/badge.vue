@@ -4,7 +4,6 @@ import {
   NubbyItemType,
   type NubbyItem,
 } from "@/lib/nubby/items";
-import { ControllableGIF } from "@/components/ui/controllable-gif";
 
 defineProps<{
   item: NubbyItem;

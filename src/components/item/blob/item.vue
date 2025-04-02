@@ -20,7 +20,7 @@ defineProps({
   <Dialog>
     <DialogTrigger as-child>
       <ControllableGIF
-        :src="'src/assets/dumps/sprites/' + item?.spriteName + '.gif'"
+        :src="'/dumps/sprites/' + item?.spriteName + '.gif'"
         class="w-12 h-12 object-contain cursor-pointer"
         v-bind="$attrs"
       />

@@ -2,7 +2,7 @@
 import { ItemBlob } from "@/components/item/blob";
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { items, NubbyItemTier, simplifiedItems } from "@/lib/nubby/items";
+import { NubbyItemTier, simplifiedItems } from "@/lib/nubby/items";
 import { nubbyItemTierWeightings } from "@/lib/nubby/math";
 </script>
 
