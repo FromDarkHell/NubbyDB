@@ -31,7 +31,7 @@ function htmlify(s: string | undefined) {
   s = s.replaceAll(/\[([A-Za-z0-9_]*),[0-9]+\]/g, (substring: string) => {
     var spriteName = substring.match(/(?!\[)[A-Za-z_]+(?=,[0-]+)/g);
     return (
-      "<img src='/dumps/sprites/" +
+      "<img src='dumps/sprites/" +
       spriteName +
       ".gif' class='w-4 h-4 object-contain inline'/>"
     );
@@ -58,7 +58,7 @@ function htmlify(s: string | undefined) {
   <div>
     <div class="flex gap-2 my-2">
       <ControllableGIF
-        :src="'/dumps/sprites/' + item?.spriteName + '.gif'"
+        :src="'dumps/sprites/' + item?.spriteName + '.gif'"
         class="w-12 h-12 object-contain shrink-0"
       />
 
