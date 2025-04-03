@@ -55,7 +55,7 @@ function htmlify(s: string | undefined) {
 }
 </script>
 <template>
-  <div>
+  <div class="text-wrap">
     <div class="flex gap-2 my-2">
       <ControllableGIF
         :src="'dumps/sprites/' + item?.spriteName + '.gif'"

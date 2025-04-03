@@ -41,7 +41,7 @@ const selectedItem = ref<SimplifiedNubbyItem | undefined>(undefined);
   <div class="flex shrink-0">
     <aside
       id="default-sidebar"
-      class="left-0 z-40 w-80 shrink-0 h-screen transition-transform -translate-x-full sm:translate-x-0"
+      class="left-0 z-40 w-80 shrink-0 h-screen hidden md:block"
       aria-label="Sidebar"
     >
       <div
@@ -65,7 +65,7 @@ const selectedItem = ref<SimplifiedNubbyItem | undefined>(undefined);
       </div>
     </aside>
 
-    <div class="w-full">
+    <div class="w-full flex-wrap">
       <div
         class="w-full px-8 py-4"
         style="

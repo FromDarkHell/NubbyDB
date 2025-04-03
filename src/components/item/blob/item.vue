@@ -29,7 +29,7 @@ defineProps({
       <DialogHeader>
         <DialogTitle>{{ item?.nameText }}</DialogTitle>
       </DialogHeader>
-      <div>
+      <div class="flex-wrap text-wrap">
         <ItemInfo :item="item" :show-mutant-info="false" />
 
         <div v-if="item?.upgradeItem != undefined">
