@@ -19,12 +19,15 @@ const nubbyItemTypeLabels = {
 };
 
 export enum NubbyItemTier {
+  UNOBTAINABLE = -1,
+
   COMMON = 0,
   RARE = 1,
   ULTRA_RARE = 2,
 }
 
 const nubbyItemTierLabels = {
+  [NubbyItemTier.UNOBTAINABLE]: "Unobtainable",
   [NubbyItemTier.COMMON]: "Common",
   [NubbyItemTier.RARE]: "Rare",
   [NubbyItemTier.ULTRA_RARE]: "Ultra-Rare",

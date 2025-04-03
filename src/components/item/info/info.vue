@@ -117,6 +117,7 @@ function htmlify(s: string | undefined) {
             </TooltipText>
 
             {{ (calculateItemDropRate(item!, items).EARLY * 100).toFixed(3) }}%
+            (Weight: {{ item?.levelWeighting.EARLY }})
           </li>
           <li>
             <TooltipText>
@@ -135,6 +136,7 @@ function htmlify(s: string | undefined) {
             </TooltipText>
 
             {{ (calculateItemDropRate(item!, items).MID * 100).toFixed(3) }}%
+            (Weight: {{ item?.levelWeighting.MID }})
           </li>
           <li>
             <TooltipText>
@@ -150,6 +152,7 @@ function htmlify(s: string | undefined) {
             </TooltipText>
 
             {{ (calculateItemDropRate(item!, items).LATE * 100).toFixed(3) }}%
+            (Weight: {{ item?.levelWeighting.LATE }})
           </li>
         </ul>
       </div>

@@ -138,7 +138,7 @@ const selectedItem = ref<SimplifiedNubbyItem | undefined>(undefined);
             <p>{{ nubbyItemTierLabels[groupKey] }}</p>
           </div>
 
-          <div class="flex gap-x-4 gap-y-0 flex-wrap px-4">
+          <div class="flex gap-x-4 gap-y-0 flex-wrap px-8">
             <div
               v-for="item in nubbyItems?.filter((i) => {
                 if (itemPoolFilter != '-1') {

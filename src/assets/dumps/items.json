@@ -19,7 +19,7 @@
     "objectName": "obj_I_Pants",
     "spriteName": "spr_I_Pants",
     "levelWeighting": {
-      "EARLY": 0,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -44,7 +44,7 @@
     "objectName": "obj_I_Noodle",
     "spriteName": "spr_I_Noodle",
     "levelWeighting": {
-      "EARLY": 1,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -69,7 +69,7 @@
     "objectName": "obj_I_Cactus",
     "spriteName": "spr_I_Cactus",
     "levelWeighting": {
-      "EARLY": 2,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -94,7 +94,7 @@
     "objectName": "obj_I_FlameThrower",
     "spriteName": "spr_I_Flamethrower",
     "levelWeighting": {
-      "EARLY": 3,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -119,7 +119,7 @@
     "objectName": "obj_I_LobsterClaw",
     "spriteName": "spr_I_LobsterClaw",
     "levelWeighting": {
-      "EARLY": 4,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -169,7 +169,7 @@
     "objectName": "obj_I_Snake",
     "spriteName": "spr_I_JakeTheSnake",
     "levelWeighting": {
-      "EARLY": 6,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -194,7 +194,7 @@
     "objectName": "obj_I_Strawberry",
     "spriteName": "spr_I_Strawberry",
     "levelWeighting": {
-      "EARLY": 7,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -219,7 +219,7 @@
     "objectName": "obj_I_Nose",
     "spriteName": "spr_I_Nose",
     "levelWeighting": {
-      "EARLY": 8,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -244,7 +244,7 @@
     "objectName": "obj_I_CrazyStraw",
     "spriteName": "spr_I_CrazyStraw",
     "levelWeighting": {
-      "EARLY": 9,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -269,8 +269,8 @@
     "objectName": "obj_I_EvilGoose",
     "spriteName": "spr_I_EvilGoose",
     "levelWeighting": {
-      "EARLY": 10,
-      "MID": 2,
+      "EARLY": 2,
+      "MID": 5,
       "LATE": 5
     }
   },
@@ -294,7 +294,7 @@
     "objectName": "obj_I_FlamingSkull",
     "spriteName": "spr_I_FlamingSkull",
     "levelWeighting": {
-      "EARLY": 11,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -319,8 +319,8 @@
     "objectName": "obj_I_SeaCucumber",
     "spriteName": "spr_I_SeaCucumber",
     "levelWeighting": {
-      "EARLY": 12,
-      "MID": 5,
+      "EARLY": 5,
+      "MID": 3,
       "LATE": 3
     }
   },
@@ -344,7 +344,7 @@
     "objectName": "obj_I_TartLard",
     "spriteName": "spr_I_TartLard",
     "levelWeighting": {
-      "EARLY": 13,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -369,7 +369,7 @@
     "objectName": "obj_I_Pedro",
     "spriteName": "spr_I_Pedro",
     "levelWeighting": {
-      "EARLY": 14,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -394,7 +394,7 @@
     "objectName": "obj_I_FlyAgaric",
     "spriteName": "spr_I_FlyAgaric",
     "levelWeighting": {
-      "EARLY": 15,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -419,8 +419,8 @@
     "objectName": "obj_I_FingerPuppet",
     "spriteName": "spr_I_FingerPuppetPointer",
     "levelWeighting": {
-      "EARLY": 16,
-      "MID": 5,
+      "EARLY": 5,
+      "MID": 3,
       "LATE": 3
     }
   },
@@ -444,7 +444,7 @@
     "objectName": "obj_I_Jacks",
     "spriteName": "spr_I_Jacks",
     "levelWeighting": {
-      "EARLY": 17,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -469,7 +469,7 @@
     "objectName": "obj_I_Croissant",
     "spriteName": "spr_I_Croissant",
     "levelWeighting": {
-      "EARLY": 18,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -494,7 +494,7 @@
     "objectName": "obj_I_Donut",
     "spriteName": "spr_I_Donut",
     "levelWeighting": {
-      "EARLY": 19,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -519,7 +519,7 @@
     "objectName": "obj_I_RubberChicken",
     "spriteName": "spr_I_RubberChicken",
     "levelWeighting": {
-      "EARLY": 20,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -544,8 +544,8 @@
     "objectName": "obj_I_TonOfFeathers",
     "spriteName": "spr_I_TonOfFeathers",
     "levelWeighting": {
-      "EARLY": 21,
-      "MID": 5,
+      "EARLY": 5,
+      "MID": 3,
       "LATE": 3
     }
   },
@@ -569,7 +569,7 @@
     "objectName": "obj_I_DancingDinosaur",
     "spriteName": "spr_I_DancingDinosaur",
     "levelWeighting": {
-      "EARLY": 22,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -594,8 +594,8 @@
     "objectName": "obj_I_Squirmy",
     "spriteName": "spr_I_Squirmy",
     "levelWeighting": {
-      "EARLY": 23,
-      "MID": 5,
+      "EARLY": 5,
+      "MID": 3,
       "LATE": 3
     }
   },
@@ -619,7 +619,7 @@
     "objectName": "obj_I_BrokenSocket",
     "spriteName": "spr_I_BrokenSocket",
     "levelWeighting": {
-      "EARLY": 24,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -644,7 +644,7 @@
     "objectName": "obj_I_Test1",
     "spriteName": "spr_T1",
     "levelWeighting": {
-      "EARLY": 25,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -669,7 +669,7 @@
     "objectName": "obj_I_Test2",
     "spriteName": "spr_T2",
     "levelWeighting": {
-      "EARLY": 26,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -694,7 +694,7 @@
     "objectName": "obj_I_ToyFish",
     "spriteName": "spr_I_WindUpFish",
     "levelWeighting": {
-      "EARLY": 27,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -719,7 +719,7 @@
     "objectName": "obj_I_Flutty",
     "spriteName": "spr_I_Flutty",
     "levelWeighting": {
-      "EARLY": 28,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -744,7 +744,7 @@
     "objectName": "obj_I_Yeti",
     "spriteName": "spr_I_Yeti",
     "levelWeighting": {
-      "EARLY": 29,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -769,7 +769,7 @@
     "objectName": "obj_I_Kazoo",
     "spriteName": "spr_I_Kazoo",
     "levelWeighting": {
-      "EARLY": 30,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -794,7 +794,7 @@
     "objectName": "obj_I_Squid",
     "spriteName": "spr_I_Squid",
     "levelWeighting": {
-      "EARLY": 31,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -819,7 +819,7 @@
     "objectName": "obj_I_3DGlasses",
     "spriteName": "spr_I_3DGlasses",
     "levelWeighting": {
-      "EARLY": 32,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -844,7 +844,7 @@
     "objectName": "obj_I_UraniumRod",
     "spriteName": "spr_I_UraniumRod",
     "levelWeighting": {
-      "EARLY": 33,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -869,7 +869,7 @@
     "objectName": "obj_I_Pointer",
     "spriteName": "spr_I_ThePointer",
     "levelWeighting": {
-      "EARLY": 34,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -894,7 +894,7 @@
     "objectName": "obj_I_Seal",
     "spriteName": "spr_I_NealTheSeal",
     "levelWeighting": {
-      "EARLY": 35,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -919,7 +919,7 @@
     "objectName": "obj_I_HotDogDog",
     "spriteName": "spr_I_HotDogDog",
     "levelWeighting": {
-      "EARLY": 36,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -944,8 +944,8 @@
     "objectName": "obj_I_FriendlyRock",
     "spriteName": "spr_I_FriendlyRock",
     "levelWeighting": {
-      "EARLY": 37,
-      "MID": 5,
+      "EARLY": 5,
+      "MID": 2,
       "LATE": 2
     }
   },
@@ -969,7 +969,7 @@
     "objectName": "obj_I_Dave",
     "spriteName": "spr_I_Dave",
     "levelWeighting": {
-      "EARLY": 38,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -994,7 +994,7 @@
     "objectName": "obj_I_Mollusk",
     "spriteName": "spr_I_Mollusk",
     "levelWeighting": {
-      "EARLY": 39,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1019,7 +1019,7 @@
     "objectName": "obj_I_Tardigrade",
     "spriteName": "spr_I_Tardigrade",
     "levelWeighting": {
-      "EARLY": 40,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1044,8 +1044,8 @@
     "objectName": "obj_I_PlasticTree",
     "spriteName": "spr_I_PlasticTree",
     "levelWeighting": {
-      "EARLY": 41,
-      "MID": 5,
+      "EARLY": 5,
+      "MID": 2,
       "LATE": 2
     }
   },
@@ -1069,7 +1069,7 @@
     "objectName": "obj_I_ClayManGuy",
     "spriteName": "spr_I_ClayManGuy",
     "levelWeighting": {
-      "EARLY": 42,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1094,8 +1094,8 @@
     "objectName": "obj_I_Asbestos",
     "spriteName": "spr_I_Asbestos",
     "levelWeighting": {
-      "EARLY": 43,
-      "MID": 3,
+      "EARLY": 3,
+      "MID": 5,
       "LATE": 5
     }
   },
@@ -1119,9 +1119,9 @@
     "objectName": "obj_I_CheeseHouse",
     "spriteName": "spr_I_CheeseHouse",
     "levelWeighting": {
-      "EARLY": 44,
-      "MID": 2,
-      "LATE": 5
+      "EARLY": 2,
+      "MID": 5,
+      "LATE": 3
     }
   },
   {
@@ -1144,7 +1144,7 @@
     "objectName": "obj_I_Kebab",
     "spriteName": "spr_I_Kebab",
     "levelWeighting": {
-      "EARLY": 45,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1169,7 +1169,7 @@
     "objectName": "obj_I_KidneyBean",
     "spriteName": "spr_I_KidneyBean",
     "levelWeighting": {
-      "EARLY": 46,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1194,7 +1194,7 @@
     "objectName": "obj_I_WinglessFly",
     "spriteName": "spr_I_WinglessFly",
     "levelWeighting": {
-      "EARLY": 47,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1219,7 +1219,7 @@
     "objectName": "obj_I_DisguiseGlasses",
     "spriteName": "spr_I_DisguiseGlasses",
     "levelWeighting": {
-      "EARLY": 48,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1244,7 +1244,7 @@
     "objectName": "obj_I_KingBaby",
     "spriteName": "spr_I_KingBaby",
     "levelWeighting": {
-      "EARLY": 49,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1269,7 +1269,7 @@
     "objectName": "obj_I_PickleRat",
     "spriteName": "spr_I_PickleRat",
     "levelWeighting": {
-      "EARLY": 50,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1294,7 +1294,7 @@
     "objectName": "obj_I_MannequinHead",
     "spriteName": "spr_I_MannequinHead",
     "levelWeighting": {
-      "EARLY": 51,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1319,8 +1319,8 @@
     "objectName": "obj_I_LaserPointer",
     "spriteName": "spr_I_LaserPointer",
     "levelWeighting": {
-      "EARLY": 52,
-      "MID": 3,
+      "EARLY": 3,
+      "MID": 5,
       "LATE": 5
     }
   },
@@ -1344,7 +1344,7 @@
     "objectName": "obj_I_AllSeeingPyramid",
     "spriteName": "spr_I_AllSeeingPyramid",
     "levelWeighting": {
-      "EARLY": 53,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1369,7 +1369,7 @@
     "objectName": "obj_I_FishMan",
     "spriteName": "spr_I_FishMan",
     "levelWeighting": {
-      "EARLY": 54,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1394,9 +1394,9 @@
     "objectName": "obj_I_TwoHeadedTurtle",
     "spriteName": "spr_I_TwoHeadedTurtle",
     "levelWeighting": {
-      "EARLY": 55,
-      "MID": 1,
-      "LATE": 4
+      "EARLY": 1,
+      "MID": 4,
+      "LATE": 5
     }
   },
   {
@@ -1419,7 +1419,7 @@
     "objectName": "obj_I_InflatableDolpin",
     "spriteName": "spr_I_InflatableDolphin",
     "levelWeighting": {
-      "EARLY": 56,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1444,7 +1444,7 @@
     "objectName": "obj_I_ProfPalmy",
     "spriteName": "spr_I_ProfPalmy",
     "levelWeighting": {
-      "EARLY": 57,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1469,7 +1469,7 @@
     "objectName": "obj_I_PregnancyTest",
     "spriteName": "spr_I_PregnancyTest",
     "levelWeighting": {
-      "EARLY": 58,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1494,7 +1494,7 @@
     "objectName": "obj_I_HorsePill",
     "spriteName": "spr_I_HorsePill",
     "levelWeighting": {
-      "EARLY": 59,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1519,7 +1519,7 @@
     "objectName": "obj_I_Ouroboros",
     "spriteName": "spr_I_Ouroboros",
     "levelWeighting": {
-      "EARLY": 60,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1544,7 +1544,7 @@
     "objectName": "obj_I_Lentil",
     "spriteName": "spr_I_Lentil",
     "levelWeighting": {
-      "EARLY": 61,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1569,7 +1569,7 @@
     "objectName": "obj_I_MysteryBoxComnNM",
     "spriteName": "spr_I_MysteryBoxComn",
     "levelWeighting": {
-      "EARLY": 62,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1594,7 +1594,7 @@
     "objectName": "obj_I_MysteryBoxComnBM",
     "spriteName": "spr_I_MysteryBoxComn",
     "levelWeighting": {
-      "EARLY": 63,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1619,7 +1619,7 @@
     "objectName": "obj_I_MysteryBoxComnCN",
     "spriteName": "spr_I_MysteryBoxComn",
     "levelWeighting": {
-      "EARLY": 64,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1644,9 +1644,9 @@
     "objectName": "obj_I_PoopButt",
     "spriteName": "spr_I_PoopButt",
     "levelWeighting": {
-      "EARLY": 65,
-      "MID": 2,
-      "LATE": 5
+      "EARLY": 2,
+      "MID": 5,
+      "LATE": 3
     }
   },
   {
@@ -1669,7 +1669,7 @@
     "objectName": "obj_I_Alien",
     "spriteName": "spr_I_Alien",
     "levelWeighting": {
-      "EARLY": 66,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1694,8 +1694,8 @@
     "objectName": "obj_I_EBlock",
     "spriteName": "spr_I_EBlock",
     "levelWeighting": {
-      "EARLY": 67,
-      "MID": 0,
+      "EARLY": 0,
+      "MID": 5,
       "LATE": 5
     }
   },
@@ -1719,7 +1719,7 @@
     "objectName": "obj_I_S_Pants",
     "spriteName": "spr_I_S_Pants",
     "levelWeighting": {
-      "EARLY": 68,
+      "EARLY": 5,
       "MID": 5,
       "LATE": 5
     }
@@ -1744,7 +1744,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 69,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -1769,7 +1769,7 @@
     "objectName": "obj_I_S_Cactus",
     "spriteName": "spr_I_S_Cactus",
     "levelWeighting": {
-      "EARLY": 70,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -1794,7 +1794,7 @@
     "objectName": "obj_I_S_FlameThrower",
     "spriteName": "spr_I_S_Flamethrower",
     "levelWeighting": {
-      "EARLY": 71,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -1819,7 +1819,7 @@
     "objectName": "obj_I_S_LobsterClaw",
     "spriteName": "spr_I_S_LobsterClaw",
     "levelWeighting": {
-      "EARLY": 72,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -1844,7 +1844,7 @@
     "objectName": "obj_I_S_Monstrosity",
     "spriteName": "spr_I_S_Monstrosity",
     "levelWeighting": {
-      "EARLY": 73,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -1869,7 +1869,7 @@
     "objectName": "obj_I_S_Snake",
     "spriteName": "spr_I_S_JakeTheSnake",
     "levelWeighting": {
-      "EARLY": 74,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -1894,7 +1894,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 75,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -1919,7 +1919,7 @@
     "objectName": "obj_I_S_Nose",
     "spriteName": "spr_I_S_Nose",
     "levelWeighting": {
-      "EARLY": 76,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -1944,7 +1944,7 @@
     "objectName": "obj_I_S_CrazyStraw",
     "spriteName": "spr_I_S_CrazyStraw",
     "levelWeighting": {
-      "EARLY": 77,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -1969,7 +1969,7 @@
     "objectName": "obj_I_S_EvilGoose",
     "spriteName": "spr_I_S_EvilGoose",
     "levelWeighting": {
-      "EARLY": 78,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -1994,7 +1994,7 @@
     "objectName": "obj_I_S_FlamingSkull",
     "spriteName": "spr_I_S_FlamingSkull",
     "levelWeighting": {
-      "EARLY": 79,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2019,7 +2019,7 @@
     "objectName": "obj_I_S_SeaCucumber",
     "spriteName": "spr_I_S_SeaCucumber",
     "levelWeighting": {
-      "EARLY": 80,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2044,7 +2044,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 81,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2069,7 +2069,7 @@
     "objectName": "obj_I_S_Pedro",
     "spriteName": "spr_I_S_Pedro",
     "levelWeighting": {
-      "EARLY": 82,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2094,7 +2094,7 @@
     "objectName": "obj_I_S_FlyAgaric",
     "spriteName": "spr_I_S_FlyAgaric",
     "levelWeighting": {
-      "EARLY": 83,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2119,7 +2119,7 @@
     "objectName": "obj_I_S_FingerPuppet",
     "spriteName": "spr_I_S_FingerPuppet",
     "levelWeighting": {
-      "EARLY": 84,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2144,7 +2144,7 @@
     "objectName": "obj_I_S_Jacks",
     "spriteName": "spr_I_S_Jacks",
     "levelWeighting": {
-      "EARLY": 85,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2169,7 +2169,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 86,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2194,7 +2194,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 87,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2219,7 +2219,7 @@
     "objectName": "obj_I_S_RubberChicken",
     "spriteName": "spr_I_S_RubberChicken",
     "levelWeighting": {
-      "EARLY": 88,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2244,7 +2244,7 @@
     "objectName": "obj_I_S_TonOfFeathers",
     "spriteName": "spr_I_S_TonOfFeathers",
     "levelWeighting": {
-      "EARLY": 89,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2269,7 +2269,7 @@
     "objectName": "obj_I_S_DancingDinosaur",
     "spriteName": "spr_I_S_DancingDinosaur",
     "levelWeighting": {
-      "EARLY": 90,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2294,7 +2294,7 @@
     "objectName": "obj_I_S_Squirmy",
     "spriteName": "spr_I_S_Squirmy",
     "levelWeighting": {
-      "EARLY": 91,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2319,7 +2319,7 @@
     "objectName": "obj_I_S_BrokenSocket",
     "spriteName": "spr_I_S_BrokenSocket",
     "levelWeighting": {
-      "EARLY": 92,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2344,7 +2344,7 @@
     "objectName": "obj_I_S_Test1",
     "spriteName": "spr_T1",
     "levelWeighting": {
-      "EARLY": 93,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2369,7 +2369,7 @@
     "objectName": "obj_I_S_Test2",
     "spriteName": "spr_T2",
     "levelWeighting": {
-      "EARLY": 94,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2394,7 +2394,7 @@
     "objectName": "obj_I_S_ToyFish",
     "spriteName": "spr_I_S_WindUpFish",
     "levelWeighting": {
-      "EARLY": 95,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2419,7 +2419,7 @@
     "objectName": "obj_I_S_Flutty",
     "spriteName": "spr_I_S_Flutty",
     "levelWeighting": {
-      "EARLY": 96,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2444,7 +2444,7 @@
     "objectName": "obj_I_S_Yeti",
     "spriteName": "spr_I_S_Yeti",
     "levelWeighting": {
-      "EARLY": 97,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2469,7 +2469,7 @@
     "objectName": "obj_I_S_Kazoo",
     "spriteName": "spr_I_S_Kazoo",
     "levelWeighting": {
-      "EARLY": 98,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2494,7 +2494,7 @@
     "objectName": "obj_I_S_Squid",
     "spriteName": "spr_I_S_Squid",
     "levelWeighting": {
-      "EARLY": 99,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2519,7 +2519,7 @@
     "objectName": "obj_I_S_3DGlasses",
     "spriteName": "spr_I_S_3DGlasses",
     "levelWeighting": {
-      "EARLY": 100,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2544,7 +2544,7 @@
     "objectName": "obj_I_S_UraniumRod",
     "spriteName": "spr_I_S_UraniumRod",
     "levelWeighting": {
-      "EARLY": 101,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2569,7 +2569,7 @@
     "objectName": "obj_I_S_Pointer",
     "spriteName": "spr_S_ThePointer",
     "levelWeighting": {
-      "EARLY": 102,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2594,7 +2594,7 @@
     "objectName": "obj_I_S_Seal",
     "spriteName": "spr_I_S_NealTheSeal",
     "levelWeighting": {
-      "EARLY": 103,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2619,7 +2619,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 104,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2644,7 +2644,7 @@
     "objectName": "obj_I_S_FriendlyRock",
     "spriteName": "spr_I_S_FriendlyRock",
     "levelWeighting": {
-      "EARLY": 105,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2669,7 +2669,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 106,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2694,7 +2694,7 @@
     "objectName": "obj_I_S_Mollusk",
     "spriteName": "spr_I_S_TheMollusk",
     "levelWeighting": {
-      "EARLY": 107,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2719,7 +2719,7 @@
     "objectName": "obj_I_S_Tardigrade",
     "spriteName": "spr_I_S_Tardigrade",
     "levelWeighting": {
-      "EARLY": 108,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2744,7 +2744,7 @@
     "objectName": "obj_I_S_PlasticTree",
     "spriteName": "spr_I_S_PlasticTree",
     "levelWeighting": {
-      "EARLY": 109,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2769,7 +2769,7 @@
     "objectName": "obj_I_S_ClayManGuy",
     "spriteName": "spr_I_S_ClayManGuy",
     "levelWeighting": {
-      "EARLY": 110,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2794,7 +2794,7 @@
     "objectName": "obj_I_S_Asbestos",
     "spriteName": "spr_I_S_Asbestos",
     "levelWeighting": {
-      "EARLY": 111,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2819,7 +2819,7 @@
     "objectName": "obj_I_S_CheeseHouse",
     "spriteName": "spr_I_S_CheeseHouse",
     "levelWeighting": {
-      "EARLY": 112,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2844,7 +2844,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 113,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2869,7 +2869,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 114,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2894,7 +2894,7 @@
     "objectName": "obj_I_S_WinglessFly",
     "spriteName": "spr_I_S_WinglessFly",
     "levelWeighting": {
-      "EARLY": 115,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2919,7 +2919,7 @@
     "objectName": "obj_I_S_DisguiseGlasses",
     "spriteName": "spr_I_S_DisguiseGlasses",
     "levelWeighting": {
-      "EARLY": 116,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2944,7 +2944,7 @@
     "objectName": "obj_I_S_KingBaby",
     "spriteName": "spr_I_S_KingBaby",
     "levelWeighting": {
-      "EARLY": 117,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2969,7 +2969,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 118,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -2994,7 +2994,7 @@
     "objectName": "obj_I_S_MannequinHead",
     "spriteName": "spr_I_S_MannequinHead",
     "levelWeighting": {
-      "EARLY": 119,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3019,7 +3019,7 @@
     "objectName": "obj_I_S_LaserPointer",
     "spriteName": "spr_I_S_LaserPointer",
     "levelWeighting": {
-      "EARLY": 120,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3044,7 +3044,7 @@
     "objectName": "obj_I_S_AllSeeingPyramid",
     "spriteName": "spr_I_S_AllSeeingPyramid",
     "levelWeighting": {
-      "EARLY": 121,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3069,7 +3069,7 @@
     "objectName": "obj_I_S_FishMan",
     "spriteName": "spr_I_S_FishMan",
     "levelWeighting": {
-      "EARLY": 122,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3094,7 +3094,7 @@
     "objectName": "obj_I_S_TwoHeadedTurtle",
     "spriteName": "spr_I_S_TwoHeadedTurtle",
     "levelWeighting": {
-      "EARLY": 123,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3119,7 +3119,7 @@
     "objectName": "obj_I_S_InflatableDolphin",
     "spriteName": "spr_I_S_InflatableDolphin",
     "levelWeighting": {
-      "EARLY": 124,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3144,7 +3144,7 @@
     "objectName": "obj_I_S_ProfPalmy",
     "spriteName": "spr_I_S_ProfPalmy",
     "levelWeighting": {
-      "EARLY": 125,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3169,7 +3169,7 @@
     "objectName": "obj_I_S_PregnancyTest",
     "spriteName": "spr_I_S_PregnancyTest",
     "levelWeighting": {
-      "EARLY": 126,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3194,7 +3194,7 @@
     "objectName": "obj_I_S_HorsePill",
     "spriteName": "spr_I_S_HorsePill",
     "levelWeighting": {
-      "EARLY": 127,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3219,7 +3219,7 @@
     "objectName": "obj_I_S_Ouroboros",
     "spriteName": "spr_I_S_Ouroboros",
     "levelWeighting": {
-      "EARLY": 128,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3244,7 +3244,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 129,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3269,7 +3269,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 130,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3294,7 +3294,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 131,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3319,7 +3319,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 132,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3344,7 +3344,7 @@
     "objectName": "obj_I_S_PoopButt",
     "spriteName": "spr_I_S_PoopButt",
     "levelWeighting": {
-      "EARLY": 133,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3369,7 +3369,7 @@
     "objectName": "obj_I_S_Alien",
     "spriteName": "spr_I_S_Alien",
     "levelWeighting": {
-      "EARLY": 134,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3394,7 +3394,7 @@
     "objectName": "obj_I_S_EBlock",
     "spriteName": "spr_I_S_EBlock",
     "levelWeighting": {
-      "EARLY": 135,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3419,7 +3419,7 @@
     "objectName": "obj_I_Chip",
     "spriteName": "spr_I_Chip",
     "levelWeighting": {
-      "EARLY": 136,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3444,7 +3444,7 @@
     "objectName": "obj_I_Avocado",
     "spriteName": "spr_I_Avocado",
     "levelWeighting": {
-      "EARLY": 137,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3469,7 +3469,7 @@
     "objectName": "obj_I_FavaBean",
     "spriteName": "spr_I_FavaBean",
     "levelWeighting": {
-      "EARLY": 138,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3494,7 +3494,7 @@
     "objectName": "obj_I_MysteryBoxRareNM",
     "spriteName": "spr_I_MysteryBoxRare",
     "levelWeighting": {
-      "EARLY": 139,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3519,7 +3519,7 @@
     "objectName": "obj_I_MysteryBoxRareBM",
     "spriteName": "spr_I_MysteryBoxRare",
     "levelWeighting": {
-      "EARLY": 140,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3544,7 +3544,7 @@
     "objectName": "obj_I_MysteryBoxRareCN",
     "spriteName": "spr_I_MysteryBoxRare",
     "levelWeighting": {
-      "EARLY": 141,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3569,7 +3569,7 @@
     "objectName": "obj_I_MysteryBoxDupeNM",
     "spriteName": "spr_I_MysteryBoxDupe",
     "levelWeighting": {
-      "EARLY": 142,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3594,7 +3594,7 @@
     "objectName": "obj_I_MysteryBoxUltraRareNM",
     "spriteName": "spr_I_MysteryBoxUltraRare",
     "levelWeighting": {
-      "EARLY": 143,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3619,7 +3619,7 @@
     "objectName": "obj_I_MysteryBoxUltraRareBM",
     "spriteName": "spr_I_MysteryBoxUltraRare",
     "levelWeighting": {
-      "EARLY": 144,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3644,7 +3644,7 @@
     "objectName": "obj_I_MysteryBoxUltraRareCN",
     "spriteName": "spr_I_MysteryBoxUltraRare",
     "levelWeighting": {
-      "EARLY": 145,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3669,7 +3669,7 @@
     "objectName": "obj_I_Starfruit",
     "spriteName": "spr_I_Starfruit",
     "levelWeighting": {
-      "EARLY": 146,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3694,7 +3694,7 @@
     "objectName": "obj_I_BrokenChip",
     "spriteName": "spr_I_ChipBroken",
     "levelWeighting": {
-      "EARLY": 147,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3719,7 +3719,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 148,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3744,7 +3744,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 149,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3769,7 +3769,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 150,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3794,7 +3794,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 151,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3819,7 +3819,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 152,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3844,7 +3844,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 153,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3869,7 +3869,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 154,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3894,7 +3894,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 155,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3919,7 +3919,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 156,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3944,7 +3944,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 157,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3969,7 +3969,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 158,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -3994,7 +3994,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 159,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -4019,7 +4019,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 160,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -4044,7 +4044,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 161,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -4069,7 +4069,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 162,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -4094,7 +4094,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 163,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -4119,7 +4119,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 164,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -4144,7 +4144,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 165,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -4169,7 +4169,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 166,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -4194,7 +4194,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 167,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -4219,7 +4219,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 168,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -4244,7 +4244,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 169,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -4269,7 +4269,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 170,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -4294,7 +4294,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 171,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }
@@ -4319,7 +4319,7 @@
     "objectName": "obj_ItemParent",
     "spriteName": null,
     "levelWeighting": {
-      "EARLY": 172,
+      "EARLY": 0,
       "MID": 0,
       "LATE": 0
     }

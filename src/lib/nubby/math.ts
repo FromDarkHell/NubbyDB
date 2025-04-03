@@ -50,6 +50,7 @@ interface ItemDropRate {
 }
 
 const nubbyItemTierWeightings = {
+  [NubbyItemTier.UNOBTAINABLE]: -1,
   [NubbyItemTier.COMMON]: 950,
   [NubbyItemTier.RARE]: 50,
   [NubbyItemTier.ULTRA_RARE]: 2,
@@ -86,6 +87,11 @@ function calculateItemDropRate(
           : stage == "MID"
           ? item.levelWeighting.MID
           : item.levelWeighting.LATE;
+
+      // All items in the cafe are evenly weighted (aside from rarity)
+      // See: `gml_Object_obj_RerollBtnCafe_Step_0 and `gml_Object_obj_CafeMGMT_Create_0`
+      if (inputItem.itemPool == NubbyItemPool.Cafe) itemWeight = 1;
+
       for (var i = 0; i < itemWeight; i++) {
         stagedPool.push(item);
       }
@@ -95,19 +101,26 @@ function calculateItemDropRate(
       (x) => x.id == inputItem.id
     ).length;
 
-    var probability = hypergeometricProbability(
-      stagedPool.length,
-      successPopulation,
-      sampleSize,
-      successesInSample
-    );
+    var totalProbability = 0;
+    for (var i = 0; i < sampleSize; i++) {
+      // The probability roll rolls a number between 1 and 1000
+      // This is *required* to roll into the specific pool
+      var poolProbability =
+        nubbyItemTierWeightings[inputItem.itemRarity] / 1000;
+
+      totalProbability +=
+        hypergeometricProbability(
+          stagedPool.length,
+          successPopulation,
+          1,
+          successesInSample
+        ) * poolProbability;
+    }
 
     // Please See: `gml_GlobalScript_scr_GiveItem`
-    probability *= nubbyItemTierWeightings[inputItem.itemRarity] / 1000;
-
-    if (stage == "EARLY") itemDropOdds.EARLY = probability;
-    if (stage == "MID") itemDropOdds.MID = probability;
-    if (stage == "LATE") itemDropOdds.LATE = probability;
+    if (stage == "EARLY") itemDropOdds.EARLY = totalProbability;
+    if (stage == "MID") itemDropOdds.MID = totalProbability;
+    if (stage == "LATE") itemDropOdds.LATE = totalProbability;
   }
 
   return itemDropOdds;
