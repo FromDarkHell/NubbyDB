@@ -1,4 +1,5 @@
 import { NubbyItemPool, NubbyItemTier, type NubbyItem } from "./items";
+import { NubbyPerkPool, NubbyPerkTier, type NubbyPerk } from "./perks";
 
 function combinations(n: number, k: number): number {
   if (k < 0 || k > n) {
@@ -128,3 +129,42 @@ function calculateItemDropRate(
 
 export { calculateItemDropRate, nubbyItemTierWeightings };
 export type { ItemDropRate };
+
+const nubbyPerkTierWeightings = {
+  [NubbyPerkTier.Unused]: -1,
+
+  [NubbyPerkTier.Common]: 950,
+  [NubbyPerkTier.Rare]: 50,
+  [NubbyPerkTier.UltraRare]: 2,
+};
+
+function calculatePerkDropRate(
+  inputItem: NubbyPerk,
+  allItems: NubbyPerk[],
+  sampleSize: number | undefined = undefined,
+  successesInSample: number = 1
+): number {
+  // Snag items only from the same pool
+  var itemsInPool = allItems.filter((x) => x.perkPool == inputItem.perkPool);
+
+  if (sampleSize == undefined) {
+    if (inputItem.perkPool == NubbyPerkPool.Capsule) sampleSize = 2;
+
+    sampleSize = 1;
+  }
+
+  var totalProbability = 0;
+  for (var i = 0; i < sampleSize; i++) {
+    // The probability roll rolls a number between 1 and 1000
+    // This is *required* to roll into the specific pool
+    var poolProbability = nubbyPerkTierWeightings[inputItem.perkTier] / 1000;
+
+    totalProbability +=
+      hypergeometricProbability(itemsInPool.length, 1, 1, successesInSample) *
+      poolProbability;
+  }
+
+  return totalProbability;
+}
+
+export { calculatePerkDropRate, nubbyPerkTierWeightings };

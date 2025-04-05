@@ -10,7 +10,7 @@ import {
 <template>
   <TooltipProvider>
     <Tooltip>
-      <TooltipTrigger>
+      <TooltipTrigger v-bind="$attrs">
         <slot name="content"></slot>
       </TooltipTrigger>
       <TooltipContent :side-offset="-10">

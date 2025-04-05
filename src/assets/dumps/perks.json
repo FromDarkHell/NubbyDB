@@ -6,13 +6,14 @@
     "triggerText": "",
     "perkTier": -1,
     "perkType": 0,
-    "inPerkPool": false,
+    "perkPool": 0,
     "perkEffectColor": {
       "b": 255,
       "g": 255,
       "r": 255
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]{a}*Empty perk description",
     "objectName": null,
     "spriteName": null
@@ -24,13 +25,14 @@
     "triggerText": "[#ffd500]Item in slot #2 triggers [spr_ITArrow,0]",
     "perkTier": 1,
     "perkType": 1,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 0,
       "g": 255,
       "r": 0
     },
     "altPerkDescVal": 1,
+    "altPerkDescText": "*DISABLED ITEMS:\n[#ffffff]*Disabled items cannot trigger for the rest of the round.",
     "perkDescription": "[#e6ffe6]\n*Force-triggers all items.\n*Disables the item in [#ffb3ff]SLOT #2[#e6ffe6].",
     "objectName": "obj_Perk_SnakeEyes",
     "spriteName": "spr_Perk_SnakeEyes"
@@ -42,13 +44,14 @@
     "triggerText": "[#ffd500]Nubby dies [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 1,
-    "inPerkPool": false,
+    "perkPool": 0,
     "perkEffectColor": {
       "b": 255,
       "g": 230,
       "r": 204
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*50% chance to force-trigger the right-most item in your inventory.",
     "objectName": "obj_Perk_Kebab",
     "spriteName": "spr_Perk_Kebab"
@@ -60,13 +63,14 @@
     "triggerText": "[#ffd500]Peg fully popped [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 1,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 0,
       "g": 255,
       "r": 255
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*25% chance to force-trigger the item in [#ffb3ff]SLOT #3[#e6ffe6].",
     "objectName": "obj_Perk_RayGun",
     "spriteName": "spr_Perk_RayGun"
@@ -78,13 +82,14 @@
     "triggerText": "[#ffd500]Nubby dies [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 0,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 0,
       "g": 255,
       "r": 255
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*If the round started less than 1.5 seconds ago, force-triggers the items in slots [#ffb3ff]SLOTS #1, #2, and #3[#e6ffe6].",
     "objectName": "obj_Perk_Speedy",
     "spriteName": "spr_Perk_Speedy"
@@ -96,13 +101,14 @@
     "triggerText": "[#ffd500]Item in slot #5 triggers 10 times [spr_ITArrow,0]",
     "perkTier": 2,
     "perkType": 1,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 255,
       "g": 255,
       "r": 0
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the item in [#ffb3ff]SLOT #4[#e6ffe6].",
     "objectName": "obj_Perk_Battery",
     "spriteName": "spr_Perk_Battery"
@@ -114,13 +120,14 @@
     "triggerText": "[#ffd500]Every 3 seconds [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 1,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 255,
       "g": 255,
       "r": 0
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers all items.",
     "objectName": "obj_Perk_Cheesy",
     "spriteName": "spr_Perk_Cheesy"
@@ -132,13 +139,14 @@
     "triggerText": "[#ffd500]First peg popped [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 1,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 255,
       "g": 160,
       "r": 64
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers all items in odd-numbered slots.",
     "objectName": "obj_Perk_Waffle",
     "spriteName": "spr_Perk_Waffle"
@@ -150,13 +158,14 @@
     "triggerText": "[#ffd500]Every 1 second [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 1,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 255,
       "g": 0,
       "r": 255
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers one random item.",
     "objectName": "obj_Perk_Chaotic",
     "spriteName": "spr_Perk_Chaotic"
@@ -168,13 +177,14 @@
     "triggerText": "[#ffd500]Nubby dies [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 1,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 255,
       "g": 0,
       "r": 0
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers all \u0022[#ffd500]First peg popped [spr_ITArrow,0][#e6ffe6]\u0022 items.",
     "objectName": "obj_Perk_Zombie",
     "spriteName": "spr_Perk_Zombie"
@@ -186,13 +196,14 @@
     "triggerText": "[#ffd500]Nubby bounces [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 0,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 128,
       "g": 128,
       "r": 128
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*5% chance to force-trigger item in [#ffb3ff]SLOT #5[#e6ffe6].",
     "objectName": "obj_Perk_Springy",
     "spriteName": "spr_Perk_Springy"
@@ -204,13 +215,14 @@
     "triggerText": "[#ffd500]Nubby hits wall 5 times [spr_ITArrow,0]",
     "perkTier": 1,
     "perkType": 1,
-    "inPerkPool": false,
+    "perkPool": 0,
     "perkEffectColor": {
       "b": 255,
       "g": 255,
       "r": 255
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the item in slot #5.",
     "objectName": "obj_Perk_PingPong",
     "spriteName": "spr_Perk_PingPong"
@@ -222,13 +234,14 @@
     "triggerText": "[#ffd500]Nubby launched [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 1,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 128,
       "g": 0,
       "r": 128
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\nIf [#ffb3ff]SLOT #1[#e6ffe6] is empty...\n*A random item from nubby-mart will appear in [#ffb3ff]SLOT #1[#e6ffe6] and force-trigger 3 times.\n*The new item will disappear at the end of the round.",
     "objectName": "obj_Perk_MysteryBox",
     "spriteName": "spr_Perk_MysteryBox"
@@ -240,13 +253,14 @@
     "triggerText": "[#ffd500]Pass round goal [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 1,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 255,
       "g": 255,
       "r": 0
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*If Nubby is still alive, 50% chance to force-trigger the item in [#ffb3ff]SLOT #3[#e6ffe6].",
     "objectName": "obj_Perk_Trophy",
     "spriteName": "spr_Perk_Trophy"
@@ -258,13 +272,14 @@
     "triggerText": "[#ffd500]First peg popped [spr_ITArrow,0]",
     "perkTier": 2,
     "perkType": 1,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 179,
       "g": 71,
       "r": 0
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the item in [#ffb3ff]SLOT #4[#e6ffe6] 1 time for every 7 coins you have.",
     "objectName": "obj_Perk_Penny",
     "spriteName": "spr_Perk_Penny"
@@ -276,13 +291,14 @@
     "triggerText": "[#ffd500]30 pegs popped [spr_ITArrow,0]",
     "perkTier": 1,
     "perkType": 1,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 255,
       "g": 102,
       "r": 102
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the items in slots [#ffb3ff]SLOTS #5, #6, and #7[#e6ffe6], 2 times each.",
     "objectName": "obj_Perk_Meaty",
     "spriteName": "spr_Perk_Meaty"
@@ -294,13 +310,14 @@
     "triggerText": "[#ffd500]First peg popped [spr_ITArrow,0]",
     "perkTier": 1,
     "perkType": 1,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 0,
       "g": 0,
       "r": 255
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\nIf you have 4 or less items... \n*Force-triggers the item in [#ffb3ff]SLOT #4[#e6ffe6], 4 times",
     "objectName": "obj_Perk_Cubey",
     "spriteName": "spr_Perk_Cubey"
@@ -312,13 +329,14 @@
     "triggerText": "[#ffd500]Nubby dies [spr_ITArrow,0]",
     "perkTier": 1,
     "perkType": 0,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 0,
       "g": 128,
       "r": 0
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*If the round goal was passed 2 or more times, force-triggers all items and lose 25% of total points.",
     "objectName": "obj_Perk_Charity",
     "spriteName": "spr_Perk_Charity"
@@ -330,13 +348,14 @@
     "triggerText": "[#ffd500]Nubby dies [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 0,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 255,
       "g": 153,
       "r": 0
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*If you have passed the round goal this round, force-triggers the item in [#ffb3ff]SLOT #5[#e6ffe6], twice.",
     "objectName": "obj_Perk_Candle",
     "spriteName": "spr_Perk_Candle"
@@ -348,13 +367,14 @@
     "triggerText": "[#ffd500]First peg popped [spr_ITArrow,0]",
     "perkTier": 1,
     "perkType": 0,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 64,
       "g": 64,
       "r": 64
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the leftmost item x times.\n*Jumbling pegs increases x by \u002B2.\n*This value resets after each round.",
     "objectName": "obj_Perk_Tornado",
     "spriteName": "spr_Perk_Tornado"
@@ -366,13 +386,14 @@
     "triggerText": "[#ffd500]10 pegs popped [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 0,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 0,
       "g": 128,
       "r": 0
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the left-most item in your inventory.\n*Lose 3% of your total points.",
     "objectName": "obj_Perk_Drainer",
     "spriteName": "spr_Perk_Drainer"
@@ -384,13 +405,14 @@
     "triggerText": "[#ffd500]15 pegs popped [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 0,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 255,
       "g": 255,
       "r": 255
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers all \u0022[#ffd500]x pegs popped [spr_ITArrow,0][#e6ffe6]\u0022 items.",
     "objectName": "obj_Perk_CardTower",
     "spriteName": "spr_Perk_CardTower"
@@ -402,13 +424,14 @@
     "triggerText": "[#ffd500]20 pegs popped [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 0,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 255,
       "g": 255,
       "r": 255
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers all items that summon anything.",
     "objectName": "obj_Perk_Eggy",
     "spriteName": "spr_Perk_Eggy"
@@ -420,13 +443,14 @@
     "triggerText": "[#ffd500]First peg popped [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 0,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 255,
       "g": 160,
       "r": 64
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*If the first peg popped was the highest # peg, force-triggers the items in [#ffb3ff]SLOTS #1, and #2[#e6ffe6], 2 times each.",
     "objectName": "obj_Perk_Buckshot",
     "spriteName": "spr_Perk_Buckshot"
@@ -438,13 +462,14 @@
     "triggerText": "[#ffd500]Nubby dies [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 0,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 0,
       "g": 0,
       "r": 0
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the item in [#ffb3ff]SLOT #7[#e6ffe6] 2 times for each empty inventory slot.",
     "objectName": "obj_Perk_Void",
     "spriteName": "spr_Perk_Void"
@@ -456,13 +481,14 @@
     "triggerText": "[#ffd500]First peg popped [spr_ITArrow,0]",
     "perkTier": 2,
     "perkType": 0,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 128,
       "g": 0,
       "r": 128
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the item in slot [#ffb3ff]SLOT #3[#e6ffe6] 1 time for each perk you have.",
     "objectName": "obj_Perk_Enlightened",
     "spriteName": "spr_Perk_Enlightened"
@@ -474,13 +500,14 @@
     "triggerText": "[#ffd500]Error: null",
     "perkTier": 1,
     "perkType": 0,
-    "inPerkPool": false,
+    "perkPool": 0,
     "perkEffectColor": {
       "b": 0,
       "g": 255,
       "r": 0
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Null",
     "objectName": "obj_Perk_Seedy",
     "spriteName": null
@@ -492,13 +519,14 @@
     "triggerText": "[#ffd500]Nubby dies [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 0,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 255,
       "g": 77,
       "r": 196
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force triggers one random \u0022[#ffd500]Nubby Dies [spr_ITArrow,0][#e6ffe6]\u0022 item again.",
     "objectName": "obj_Perk_Warlock",
     "spriteName": "spr_Perk_Warlock"
@@ -510,13 +538,14 @@
     "triggerText": "[#ffd500]First peg popped [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 0,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 255,
       "g": 255,
       "r": 0
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the item in slot #7, 1 time for every 10 food items you\u0027ve consumed.\n(Foods eaten: 0)",
     "objectName": "obj_Perk_Gourmet",
     "spriteName": "spr_Perk_Gourmet"
@@ -528,13 +557,14 @@
     "triggerText": "[#ffd500]Nubby dies [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 0,
-    "inPerkPool": true,
+    "perkPool": 1,
     "perkEffectColor": {
       "b": 0,
       "g": 0,
       "r": 102
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the item in slot #6, 1 time for every 7 rounds you\u0027ve passed with this in your inventory.\n(Rounds passed: 0)",
     "objectName": "obj_Perk_Lunar",
     "spriteName": "spr_Perk_Lunar"
@@ -546,13 +576,14 @@
     "triggerText": "[#ffd500]Highest # peg popped [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 0,
-    "inPerkPool": false,
+    "perkPool": 0,
     "perkEffectColor": {
       "b": 255,
       "g": 173,
       "r": 51
     },
     "altPerkDescVal": 0,
+    "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Has an x% chance to force-trigger the item in slot #3.\n*For each remaining life, gain \u002B25% odds.",
     "objectName": "obj_Perk_Croissant",
     "spriteName": "spr_Perk_Croissant"

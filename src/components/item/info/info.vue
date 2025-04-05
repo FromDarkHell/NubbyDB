@@ -5,54 +5,12 @@ import { ControllableGIF } from "@/components/ui/controllable-gif";
 
 import { ItemBadge } from "@/components/item/badge";
 import { TooltipText } from "@/components/ui/tooltip-text";
+import { htmlify } from "@/lib/nubby/util";
 
 const { showMutantInfo = false } = defineProps({
   item: Object as () => NubbyItem,
   showMutantInfo: Object as () => boolean,
 });
-
-function htmlify(s: string | undefined) {
-  if (s == undefined) return "";
-
-  var ended = true;
-
-  s = s.trim().replaceAll(/\[#[A-Za-z0-9]{6}\]/g, (substring: string) => {
-    var hex = substring.trim().replace("]", "").replace("[", "");
-
-    ended = !ended;
-    return (
-      (!ended ? "</div>" : "") +
-      "<div style='color: " +
-      hex +
-      "' class='inline'>"
-    );
-  });
-
-  s = s.replaceAll(/\[([A-Za-z0-9_]*),[0-9]+\]/g, (substring: string) => {
-    var spriteName = substring.match(/(?!\[)[A-Za-z_]+(?=,[0-]+)/g);
-    return (
-      "<img src='dumps/sprites/" +
-      spriteName +
-      ".gif' class='w-4 h-4 object-contain inline'/>"
-    );
-  });
-
-  s = s.replace(/\n/g, "");
-
-  while (s.match(/\*.*/g)) {
-    s = s.replaceAll(/\*.*/g, (substring: string) => {
-      var contents = substring.substring(1);
-
-      return "<li class='ml-4'>" + contents + "</li>";
-    });
-  }
-
-  if (!ended) s += "</div>";
-
-  var rawHTML = s;
-
-  return rawHTML;
-}
 </script>
 <template>
   <div class="text-wrap">
