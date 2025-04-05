@@ -1,3 +1,9 @@
+export interface ColorRGB {
+  r: number;
+  g: number;
+  b: number;
+}
+
 // TODO: Add indentation support (see: Snakey Perk)
 function htmlify(s: string | undefined) {
   if (s == undefined) return "";

@@ -1,8 +1,11 @@
 <script setup lang="ts">
 import { ItemBlob } from "@/components/item/blob";
+import { SupervisorBlob } from "@/components/supervisor/blob";
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { NubbyItemTier, simplifiedItems } from "@/lib/nubby/items";
+import { supervisors } from "@/lib/nubby/supervisors";
+
 import { nubbyItemTierWeightings } from "@/lib/nubby/math";
 </script>
 
@@ -126,8 +129,10 @@ import { nubbyItemTierWeightings } from "@/lib/nubby/math";
               <ol class="list-decimal ml-6">
                 <li>
                   <div class="flex flex-wrap items-center text-wrap">
-                    If you are playing as Octony, there is a 1/7 chance to
-                    replace any item roll with a
+                    If you are playing as
+                    <SupervisorBlob
+                      v-bind:supervisor="supervisors.find((x) => x.id == 1)"
+                    />, there is a 1/7 chance to replace any item roll with a
                     <ItemBlob
                       v-bind:item="simplifiedItems.find((x) => x.id == 31)"
                     />

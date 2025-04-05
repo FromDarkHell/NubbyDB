@@ -1,4 +1,5 @@
 import basePerks from "@/assets/dumps/perks.json";
+import type { ColorRGB } from "./util";
 
 export enum NubbyPerkTier {
   Unused = -1,
@@ -47,18 +48,12 @@ interface NubbyPerk {
   perkTier: NubbyPerkTier;
   perkType: NubbyPerkType;
   perkPool: NubbyPerkPool;
-  perkEffectColor: PerkEffectColor;
+  perkEffectColor: ColorRGB;
   altPerkDescVal: NubbyPerkAltDescription;
   altPerkDescText: null | string;
   perkDescription: string;
   objectName: null | string;
   spriteName: null | string;
-}
-
-export interface PerkEffectColor {
-  r: number;
-  g: number;
-  b: number;
 }
 
 var perks = basePerks as NubbyPerk[];

@@ -1,0 +1,189 @@
+[
+  {
+    "id": 0,
+    "name": "Tony",
+    "description": "*The standard Nubby experience!",
+    "cost": 0,
+    "colorOne": {
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "colorTwo": {
+      "b": 255,
+      "g": 0,
+      "r": 0
+    },
+    "spriteName": "spr_SVPrev_Tony"
+  },
+  {
+    "id": 1,
+    "name": "Octo-ny",
+    "description": "*Squids are 20x more likely to appear in Nubby-Mart.\n*Squids cost 50% less.",
+    "cost": 5,
+    "colorOne": {
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "colorTwo": {
+      "b": 255,
+      "g": 0,
+      "r": 0
+    },
+    "spriteName": "spr_SVPrev_Octopus"
+  },
+  {
+    "id": 2,
+    "name": "Tony Jr.",
+    "description": "*Start the game with 15 coins.\n*You will enter Nubby-Mart when the game starts.\n*Rare and ultra rare items are twice as likely to appear in shops.",
+    "cost": 10,
+    "colorOne": {
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "colorTwo": {
+      "b": 255,
+      "g": 0,
+      "r": 0
+    },
+    "spriteName": "spr_SVPrev_TonyJr"
+  },
+  {
+    "id": 3,
+    "name": "Goblony",
+    "description": "*You receive \u002B3 coins per restock instead of 1.\n*Maximum coins limit is raised to 200.\n*You lose two lives when you launch Nubby.",
+    "cost": 15,
+    "colorOne": {
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "colorTwo": {
+      "b": 255,
+      "g": 0,
+      "r": 0
+    },
+    "spriteName": "spr_SVPrev_Goblin"
+  },
+  {
+    "id": 4,
+    "name": "Mutant Tony",
+    "description": "*Items have two trigger types.\n*For example, an item could trigger when the round goal is passed OR when Nubby dies.",
+    "cost": 20,
+    "colorOne": {
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "colorTwo": {
+      "b": 255,
+      "g": 0,
+      "r": 0
+    },
+    "spriteName": "spr_SVPrev_Mutant"
+  },
+  {
+    "id": 5,
+    "name": "Glass Tony",
+    "description": "*All items are half priced.\n*\u002B3 rerolls in all shops.\n*Items have a 5% chance to shatter when they trigger.",
+    "cost": 25,
+    "colorOne": {
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "colorTwo": {
+      "b": 255,
+      "g": 0,
+      "r": 0
+    },
+    "spriteName": "spr_SVPrev_Glass"
+  },
+  {
+    "id": 6,
+    "name": "Hunter Tony",
+    "description": "*Adds a moving target to the bottom of the pegboard.\n*If Nubby hits the target, gain \u002B6 coins AND double total score.\n*You cannot gain coins from restocks.",
+    "cost": 25,
+    "colorOne": {
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "colorTwo": {
+      "b": 255,
+      "g": 0,
+      "r": 0
+    },
+    "spriteName": "spr_SVPrev_Hunter"
+  },
+  {
+    "id": 7,
+    "name": "Balogna Tony",
+    "description": "*Item and perk triggers are randomized at the start of the run. Don\u0027t question it.",
+    "cost": 25,
+    "colorOne": {
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "colorTwo": {
+      "b": 255,
+      "g": 0,
+      "r": 0
+    },
+    "spriteName": "spr_SVPrev_Balogna"
+  },
+  {
+    "id": 8,
+    "name": "Criminal Tony",
+    "description": "*Black market items can appear in Nubby-Mart and mystery capsules. Black market items cost money in Nubby-Mart.",
+    "cost": 25,
+    "colorOne": {
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "colorTwo": {
+      "b": 255,
+      "g": 0,
+      "r": 0
+    },
+    "spriteName": "spr_SVPrev_Criminal"
+  },
+  {
+    "id": 9,
+    "name": "C.E.O. Tony",
+    "description": "*Start game with 200 coins.\n*You cannot gain more coins.",
+    "cost": 25,
+    "colorOne": {
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "colorTwo": {
+      "b": 255,
+      "g": 0,
+      "r": 0
+    },
+    "spriteName": "spr_SVPrev_CEO"
+  },
+  {
+    "id": 10,
+    "name": "Immortal Tony",
+    "description": "*Replaces endless mode with prestige mode.\n*When you win, you can prestige.\n*This restarts the game and increases the difficulty for each prestige level.",
+    "cost": 25,
+    "colorOne": {
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "colorTwo": {
+      "b": 255,
+      "g": 0,
+      "r": 0
+    },
+    "spriteName": "spr_SVPrev_Immortal"
+  }
+]
