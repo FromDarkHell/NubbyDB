@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import { ControllableGIF } from "@/components/ui/controllable-gif";
 
-import { TooltipText } from "@/components/ui/tooltip-text";
 import { htmlify } from "@/lib/nubby/util";
 import type { NubbySupervisor } from "@/lib/nubby/supervisors";
 

@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import type { NubbySupervisor } from "@/lib/nubby/supervisors";
 import { supervisors } from "@/lib/nubby/supervisors";
 import { SupervisorInfo } from "@/components/supervisor/info";
 import { SupervisorBlob } from "@/components/supervisor/blob";
