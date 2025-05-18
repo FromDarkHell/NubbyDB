@@ -7,11 +7,7 @@
     "perkTier": -1,
     "perkType": 0,
     "perkPool": 0,
-    "perkEffectColor": {
-      "b": 255,
-      "g": 255,
-      "r": 255
-    },
+    "perkEffectColor": "#FFFFFFFF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]{a}*Empty perk description",
@@ -26,11 +22,7 @@
     "perkTier": 1,
     "perkType": 1,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 0,
-      "g": 255,
-      "r": 0
-    },
+    "perkEffectColor": "#00FF00FF",
     "altPerkDescVal": 1,
     "altPerkDescText": "*DISABLED ITEMS:\n[#ffffff]*Disabled items cannot trigger for the rest of the round.",
     "perkDescription": "[#e6ffe6]\n*Force-triggers all items.\n*Disables the item in [#ffb3ff]SLOT #2[#e6ffe6].",
@@ -45,11 +37,7 @@
     "perkTier": 0,
     "perkType": 1,
     "perkPool": 0,
-    "perkEffectColor": {
-      "b": 255,
-      "g": 230,
-      "r": 204
-    },
+    "perkEffectColor": "#CCE6FFFF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*50% chance to force-trigger the right-most item in your inventory.",
@@ -64,14 +52,10 @@
     "perkTier": 0,
     "perkType": 1,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 0,
-      "g": 255,
-      "r": 255
-    },
+    "perkEffectColor": "#FFFF00FF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
-    "perkDescription": "[#e6ffe6]\n*25% chance to force-trigger the item in [#ffb3ff]SLOT #3[#e6ffe6].",
+    "perkDescription": "[#e6ffe6]\n*40% chance to force-trigger the item in [#ffb3ff]SLOT #3[#e6ffe6].",
     "objectName": "obj_Perk_RayGun",
     "spriteName": "spr_Perk_RayGun"
   },
@@ -83,11 +67,7 @@
     "perkTier": 0,
     "perkType": 0,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 0,
-      "g": 255,
-      "r": 255
-    },
+    "perkEffectColor": "#FFFF00FF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*If the round started less than 1.5 seconds ago, force-triggers the items in slots [#ffb3ff]SLOTS #1, #2, and #3[#e6ffe6].",
@@ -102,11 +82,7 @@
     "perkTier": 2,
     "perkType": 1,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 255,
-      "g": 255,
-      "r": 0
-    },
+    "perkEffectColor": "#00FFFFFF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the item in [#ffb3ff]SLOT #4[#e6ffe6].",
@@ -121,11 +97,7 @@
     "perkTier": 0,
     "perkType": 1,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 255,
-      "g": 255,
-      "r": 0
-    },
+    "perkEffectColor": "#00FFFFFF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers all items.",
@@ -140,11 +112,7 @@
     "perkTier": 0,
     "perkType": 1,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 255,
-      "g": 160,
-      "r": 64
-    },
+    "perkEffectColor": "#40A0FFFF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers all items in odd-numbered slots.",
@@ -159,11 +127,7 @@
     "perkTier": 0,
     "perkType": 1,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 255,
-      "g": 0,
-      "r": 255
-    },
+    "perkEffectColor": "#FF00FFFF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers one random item.",
@@ -178,11 +142,7 @@
     "perkTier": 0,
     "perkType": 1,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 255,
-      "g": 0,
-      "r": 0
-    },
+    "perkEffectColor": "#0000FFFF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers all \u0022[#ffd500]First peg popped [spr_ITArrow,0][#e6ffe6]\u0022 items.",
@@ -197,11 +157,7 @@
     "perkTier": 0,
     "perkType": 0,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 128,
-      "g": 128,
-      "r": 128
-    },
+    "perkEffectColor": "#808080FF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*5% chance to force-trigger item in [#ffb3ff]SLOT #5[#e6ffe6].",
@@ -216,11 +172,7 @@
     "perkTier": 1,
     "perkType": 1,
     "perkPool": 0,
-    "perkEffectColor": {
-      "b": 255,
-      "g": 255,
-      "r": 255
-    },
+    "perkEffectColor": "#FFFFFFFF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the item in slot #5.",
@@ -235,11 +187,7 @@
     "perkTier": 0,
     "perkType": 1,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 128,
-      "g": 0,
-      "r": 128
-    },
+    "perkEffectColor": "#800080FF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\nIf [#ffb3ff]SLOT #1[#e6ffe6] is empty...\n*A random item from nubby-mart will appear in [#ffb3ff]SLOT #1[#e6ffe6] and force-trigger 3 times.\n*The new item will disappear at the end of the round.",
@@ -249,19 +197,15 @@
   {
     "id": 13,
     "perkName": "The Trophy Perk",
-    "triggerID": "PassGoal",
-    "triggerText": "[#ffd500]Pass round goal [spr_ITArrow,0]",
-    "perkTier": 0,
+    "triggerID": "PassGoalOnce",
+    "triggerText": "[#ffd500]Pass round goal once [spr_ITArrow,0]\t\t",
+    "perkTier": 1,
     "perkType": 1,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 255,
-      "g": 255,
-      "r": 0
-    },
+    "perkEffectColor": "#00FFFFFF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
-    "perkDescription": "[#e6ffe6]\n*If Nubby is still alive, 50% chance to force-trigger the item in [#ffb3ff]SLOT #3[#e6ffe6].",
+    "perkDescription": "[#e6ffe6]\n*Force-triggers the item in [#ffb3ff]SLOT #3[#e6ffe6], 3 times.",
     "objectName": "obj_Perk_Trophy",
     "spriteName": "spr_Perk_Trophy"
   },
@@ -273,11 +217,7 @@
     "perkTier": 2,
     "perkType": 1,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 179,
-      "g": 71,
-      "r": 0
-    },
+    "perkEffectColor": "#0047B3FF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the item in [#ffb3ff]SLOT #4[#e6ffe6] 1 time for every 7 coins you have.",
@@ -292,11 +232,7 @@
     "perkTier": 1,
     "perkType": 1,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 255,
-      "g": 102,
-      "r": 102
-    },
+    "perkEffectColor": "#6666FFFF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the items in slots [#ffb3ff]SLOTS #5, #6, and #7[#e6ffe6], 2 times each.",
@@ -311,11 +247,7 @@
     "perkTier": 1,
     "perkType": 1,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 0,
-      "g": 0,
-      "r": 255
-    },
+    "perkEffectColor": "#FF0000FF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\nIf you have 4 or less items... \n*Force-triggers the item in [#ffb3ff]SLOT #4[#e6ffe6], 4 times",
@@ -330,11 +262,7 @@
     "perkTier": 1,
     "perkType": 0,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 0,
-      "g": 128,
-      "r": 0
-    },
+    "perkEffectColor": "#008000FF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*If the round goal was passed 2 or more times, force-triggers all items and lose 25% of total points.",
@@ -349,11 +277,7 @@
     "perkTier": 0,
     "perkType": 0,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 255,
-      "g": 153,
-      "r": 0
-    },
+    "perkEffectColor": "#0099FFFF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*If you have passed the round goal this round, force-triggers the item in [#ffb3ff]SLOT #5[#e6ffe6], twice.",
@@ -368,11 +292,7 @@
     "perkTier": 1,
     "perkType": 0,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 64,
-      "g": 64,
-      "r": 64
-    },
+    "perkEffectColor": "#404040FF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the leftmost item x times.\n*Jumbling pegs increases x by \u002B2.\n*This value resets after each round.",
@@ -387,11 +307,7 @@
     "perkTier": 0,
     "perkType": 0,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 0,
-      "g": 128,
-      "r": 0
-    },
+    "perkEffectColor": "#008000FF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the left-most item in your inventory.\n*Lose 3% of your total points.",
@@ -406,11 +322,7 @@
     "perkTier": 0,
     "perkType": 0,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 255,
-      "g": 255,
-      "r": 255
-    },
+    "perkEffectColor": "#FFFFFFFF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers all \u0022[#ffd500]x pegs popped [spr_ITArrow,0][#e6ffe6]\u0022 items.",
@@ -425,11 +337,7 @@
     "perkTier": 0,
     "perkType": 0,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 255,
-      "g": 255,
-      "r": 255
-    },
+    "perkEffectColor": "#FFFFFFFF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers all items that summon anything.",
@@ -444,11 +352,7 @@
     "perkTier": 0,
     "perkType": 0,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 255,
-      "g": 160,
-      "r": 64
-    },
+    "perkEffectColor": "#40A0FFFF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*If the first peg popped was the highest # peg, force-triggers the items in [#ffb3ff]SLOTS #1, and #2[#e6ffe6], 2 times each.",
@@ -463,11 +367,7 @@
     "perkTier": 0,
     "perkType": 0,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 0,
-      "g": 0,
-      "r": 0
-    },
+    "perkEffectColor": "#000000FF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the item in [#ffb3ff]SLOT #7[#e6ffe6] 2 times for each empty inventory slot.",
@@ -482,11 +382,7 @@
     "perkTier": 2,
     "perkType": 0,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 128,
-      "g": 0,
-      "r": 128
-    },
+    "perkEffectColor": "#800080FF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the item in slot [#ffb3ff]SLOT #3[#e6ffe6] 1 time for each perk you have.",
@@ -501,11 +397,7 @@
     "perkTier": 1,
     "perkType": 0,
     "perkPool": 0,
-    "perkEffectColor": {
-      "b": 0,
-      "g": 255,
-      "r": 0
-    },
+    "perkEffectColor": "#00FF00FF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Null",
@@ -520,11 +412,7 @@
     "perkTier": 0,
     "perkType": 0,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 255,
-      "g": 77,
-      "r": 196
-    },
+    "perkEffectColor": "#C44DFFFF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force triggers one random \u0022[#ffd500]Nubby Dies [spr_ITArrow,0][#e6ffe6]\u0022 item again.",
@@ -539,11 +427,7 @@
     "perkTier": 0,
     "perkType": 0,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 255,
-      "g": 255,
-      "r": 0
-    },
+    "perkEffectColor": "#00FFFFFF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the item in slot #7, 1 time for every 10 food items you\u0027ve consumed.\n(Foods eaten: 0)",
@@ -558,11 +442,7 @@
     "perkTier": 0,
     "perkType": 0,
     "perkPool": 1,
-    "perkEffectColor": {
-      "b": 0,
-      "g": 0,
-      "r": 102
-    },
+    "perkEffectColor": "#660000FF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Force-triggers the item in slot #6, 1 time for every 7 rounds you\u0027ve passed with this in your inventory.\n(Rounds passed: 0)",
@@ -572,16 +452,12 @@
   {
     "id": 30,
     "perkName": "The Croissant Perk",
-    "triggerID": "HighestPop",
-    "triggerText": "[#ffd500]Highest # peg popped [spr_ITArrow,0]",
+    "triggerID": "PegHalve10",
+    "triggerText": "[#ffd500]10 pegs halved [spr_ITArrow,0]",
     "perkTier": 0,
     "perkType": 0,
     "perkPool": 0,
-    "perkEffectColor": {
-      "b": 255,
-      "g": 173,
-      "r": 51
-    },
+    "perkEffectColor": "#33ADFFFF",
     "altPerkDescVal": 0,
     "altPerkDescText": null,
     "perkDescription": "[#e6ffe6]\n*Has an x% chance to force-trigger the item in slot #3.\n*For each remaining life, gain \u002B25% odds.",
