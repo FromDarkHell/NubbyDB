@@ -4,8 +4,16 @@
     "name": "Tony",
     "description": "*The standard Nubby experience!",
     "cost": 0,
-    "colorOne": "#000000FF",
-    "colorTwo": "#0000FFFF",
+    "colorOne": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "colorTwo": {
+      "r": 0,
+      "g": 255,
+      "b": 255
+    },
     "spriteName": "spr_SVPrev_Tony"
   },
   {
@@ -13,8 +21,16 @@
     "name": "Octo-ny",
     "description": "*Squids are 20x more likely to appear in Nubby-Mart.\n*Squids cost 50% less.",
     "cost": 5,
-    "colorOne": "#000000FF",
-    "colorTwo": "#0000FFFF",
+    "colorOne": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "colorTwo": {
+      "r": 0,
+      "g": 255,
+      "b": 255
+    },
     "spriteName": "spr_SVPrev_Octopus"
   },
   {
@@ -22,8 +38,16 @@
     "name": "Tony Jr.",
     "description": "*Start the game with 15 coins.\n*You will enter Nubby-Mart when the game starts.\n*Rare and ultra rare items are twice as likely to appear in shops.",
     "cost": 10,
-    "colorOne": "#000000FF",
-    "colorTwo": "#0000FFFF",
+    "colorOne": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "colorTwo": {
+      "r": 0,
+      "g": 255,
+      "b": 255
+    },
     "spriteName": "spr_SVPrev_TonyJr"
   },
   {
@@ -31,8 +55,16 @@
     "name": "Goblony",
     "description": "*You receive \u002B3 coins per restock instead of 1.\n*Maximum coins limit is raised to 200.\n*You lose two lives when you launch Nubby.",
     "cost": 15,
-    "colorOne": "#000000FF",
-    "colorTwo": "#0000FFFF",
+    "colorOne": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "colorTwo": {
+      "r": 0,
+      "g": 255,
+      "b": 255
+    },
     "spriteName": "spr_SVPrev_Goblin"
   },
   {
@@ -40,8 +72,16 @@
     "name": "Mutant Tony",
     "description": "*Items have two trigger types.\n*For example, an item could trigger when the round goal is passed OR when Nubby dies.",
     "cost": 20,
-    "colorOne": "#000000FF",
-    "colorTwo": "#0000FFFF",
+    "colorOne": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "colorTwo": {
+      "r": 0,
+      "g": 255,
+      "b": 255
+    },
     "spriteName": "spr_SVPrev_Mutant"
   },
   {
@@ -49,8 +89,16 @@
     "name": "Glass Tony",
     "description": "*Maximum lives capped at 2.\n*When an item triggers, it triggers twice.\n*Perks and food items are unaffected.",
     "cost": 25,
-    "colorOne": "#000000FF",
-    "colorTwo": "#0000FFFF",
+    "colorOne": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "colorTwo": {
+      "r": 0,
+      "g": 255,
+      "b": 255
+    },
     "spriteName": "spr_SVPrev_Glass"
   },
   {
@@ -58,8 +106,16 @@
     "name": "Hunter Tony",
     "description": "*Adds a moving target to the bottom of the pegboard.\n*If Nubby hits the target, gain \u002B6 coins AND double total score.\n*You cannot gain coins from restocks.",
     "cost": 25,
-    "colorOne": "#000000FF",
-    "colorTwo": "#0000FFFF",
+    "colorOne": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "colorTwo": {
+      "r": 0,
+      "g": 255,
+      "b": 255
+    },
     "spriteName": "spr_SVPrev_Hunter"
   },
   {
@@ -67,8 +123,16 @@
     "name": "Balogna Tony",
     "description": "*Item and perk triggers are randomized at the start of the run. Don\u0027t question it.",
     "cost": 25,
-    "colorOne": "#000000FF",
-    "colorTwo": "#0000FFFF",
+    "colorOne": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "colorTwo": {
+      "r": 0,
+      "g": 255,
+      "b": 255
+    },
     "spriteName": "spr_SVPrev_Balogna"
   },
   {
@@ -76,8 +140,16 @@
     "name": "Criminal Tony",
     "description": "*Black market items can appear in Nubby-Mart and mystery capsules. Black market items cost money in Nubby-Mart.",
     "cost": 25,
-    "colorOne": "#000000FF",
-    "colorTwo": "#0000FFFF",
+    "colorOne": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "colorTwo": {
+      "r": 0,
+      "g": 255,
+      "b": 255
+    },
     "spriteName": "spr_SVPrev_Criminal"
   },
   {
@@ -85,8 +157,16 @@
     "name": "C.E.O. Tony",
     "description": "*Start game with 200 coins.\n*You cannot gain more coins.",
     "cost": 25,
-    "colorOne": "#000000FF",
-    "colorTwo": "#0000FFFF",
+    "colorOne": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "colorTwo": {
+      "r": 0,
+      "g": 255,
+      "b": 255
+    },
     "spriteName": "spr_SVPrev_CEO"
   },
   {
@@ -94,8 +174,16 @@
     "name": "Immortal Tony",
     "description": "*Replaces endless mode with prestige mode.\n*When you win, you can prestige.\n*This restarts the game and increases the difficulty for each prestige level.",
     "cost": 25,
-    "colorOne": "#000000FF",
-    "colorTwo": "#0000FFFF",
+    "colorOne": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "colorTwo": {
+      "r": 0,
+      "g": 255,
+      "b": 255
+    },
     "spriteName": "spr_SVPrev_Immortal"
   }
 ]
