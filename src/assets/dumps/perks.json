@@ -565,7 +565,7 @@
     },
     "altPerkDescVal": 0,
     "altPerkDescText": null,
-    "perkDescription": "[#e6ffe6]\n*Force-triggers the item in slot #6, 1 time for every 7 rounds you\u0027ve passed with this in your inventory.\n(Rounds passed: 0)",
+    "perkDescription": "[#e6ffe6]\n*Force-triggers the item in slot #6, 1 time for every 7 rounds you\u0027ve passed.\n(Current force-triggers: 0)",
     "objectName": "obj_Perk_Lunar",
     "spriteName": "spr_Perk_Lunar"
   },
